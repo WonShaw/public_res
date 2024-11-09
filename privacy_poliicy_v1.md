@@ -8,6 +8,9 @@ This app does not collect any user information. We do not gather, store, process
 ## Third-Party Services
 This app does not rely on any third-party services to collect user data, nor do we share any information with third parties, as no information is collected.
 
+## External Web Content
+This app allows users to open external websites within the app. These websites are not associated with the app, and we do not share any user information with them. Please be aware that these external websites may independently collect data about you. We recommend reviewing the privacy policies of these websites to understand their data collection practices.
+
 ## Data Security
 Since this app does not collect any user data, there are no data storage or security concerns. We aim to provide a secure experience without involving data collection or storage.
 
