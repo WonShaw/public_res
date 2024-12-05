@@ -8,19 +8,19 @@ APILab includes features that demonstrate how to access users' personal informat
 * Details Accessed: Card number, expiration date, and security code.
 * Source: Manually entered by the user.
 * Purpose: Demonstration of the system Autofill feature for credit card fields.
-* Processing: The information remains in the input fields only. It is not stored, transmitted, or shared with any third party.
+* Processing: The information is displayed solely in the input fields for demonstration purposes. It is not stored, transmitted, or shared with any third party.
 
 ### Phone Number
 * Details Accessed: Phone number associated with the user's device.
 * Source: Retrieved via APIs or manually entered by the user.
 * Purpose: Demonstration of the ability to access device-related information or autofill forms.
-* Processing: The phone number is displayed in the app's input fields and is not stored, shared, or transmitted.
+* Processing: The phone number is displayed solely in the input fields for demonstration purposes. It is not stored, transmitted, or shared with any third party.
 
 ### Email Address
 * Details Accessed: User-provided email address.
 * Source: Entered manually by the user.
 * Purpose: Demonstration of email field population or similar functionality.
-* Processing: The email address is processed locally and is not stored, shared, or transmitted.
+* Processing: The email address is displayed solely in the input fields for demonstration purposes. It is not stored, transmitted, or shared with any third party.
 
 ## User Control
 You can choose whether to allow the app to access personal information by disabling relevant permissions in your device settings. If permissions are disabled, the app will no longer access the corresponding information.
