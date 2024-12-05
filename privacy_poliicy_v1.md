@@ -5,9 +5,9 @@ APILab values user privacy and is committed to protecting your personal informat
 APILab includes features that demonstrate how to access users' personal information. These features may access the following information:
 
 ### Credit Card Information
-* Details Accessed: Card number, expiration date, and security code.
-* Source: Manually entered by the user.
-* Purpose: Demonstration of the system Autofill feature for credit card fields.
+* Details Accessed: Cardholder's name, card number, expiration date, and security code.
+* Source: Manually entered by the user, or retrieved via NFC when a bank card is tapped on the device's NFC reader.
+* Purpose: Demonstration of the system Autofill feature for credit card fields and the capability to retrieve card information using NFC.
 * Processing: The information is displayed solely in the input fields for demonstration purposes. It is not stored, transmitted, or shared with any third party.
 
 ### Phone Number
