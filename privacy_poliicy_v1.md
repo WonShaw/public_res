@@ -1,8 +1,29 @@
 # Privacy Policy of APILab
 APILab values user privacy and is committed to protecting your personal information. This privacy policy explains our data handling practices for this app.
 
-## Information Collection and Use
-APILab does not collect any user information. We do not gather, store, process, or share any personal data or sensitive information from your device.
+## Information Collected and Processed
+APILab includes features that demonstrate how to access users' personal information. These features may access the following information:
+
+### Credit Card Information
+* Details Accessed: Card number, expiration date, and security code.
+* Source: Manually entered by the user.
+* Purpose: Demonstration of the system Autofill feature for credit card fields.
+* Processing: The information remains in the input fields only. It is not stored, transmitted, or shared with any third party.
+
+### Phone Number
+* Details Accessed: Phone number associated with the user's device.
+* Source: Retrieved via APIs or manually entered by the user.
+* Purpose: Demonstration of the ability to access device-related information or autofill forms.
+* Processing: The phone number is displayed in the app's input fields and is not stored, shared, or transmitted.
+
+### Email Address
+* Details Accessed: User-provided email address.
+* Source: Entered manually by the user.
+* Purpose: Demonstration of email field population or similar functionality.
+* Processing: The email address is processed locally and is not stored, shared, or transmitted.
+
+## User Control
+You can choose whether to allow the app to access personal information by disabling relevant permissions in your device settings. If permissions are disabled, the app will no longer access the corresponding information.
 
 ## Third-Party Services
 APILab does not rely on any third-party services to collect user data, nor do we share any information with third parties, as no information is collected.
