@@ -22,6 +22,12 @@ APILab includes features that demonstrate how to access users' personal informat
 * Purpose: Demonstration of email field population or similar functionality.
 * Processing: The email address is displayed solely in the input fields for demonstration purposes. It is not stored, transmitted, or shared with any third party.
 
+### Device Identifier
+Details Accessed: ANDROID_ID associated with the app and device.
+Source: Retrieved via Android system APIs.
+Purpose: Demonstration of accessing device identifiers.
+Processing: The identifier is displayed solely in the input fields within the application for demonstration purposes. It is not stored, transmitted, or shared with any third party.
+
 ## User Control
 You can choose whether to allow the app to access personal information by disabling relevant permissions in your device settings. If permissions are disabled, the app will no longer access the corresponding information.
 
